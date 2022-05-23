@@ -71,3 +71,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+# ADMIN
+-- GET Users / GET by Id
+-- PATCH Users
+-- DELETE Users
+
+# USER
+-- GET Users / GET by Id 
